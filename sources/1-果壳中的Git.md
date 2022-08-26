@@ -4,7 +4,7 @@
 >
 > ©️ 本文演绎自 Atlassian 编写的 [_What is Git_](https://www.atlassian.com/git/tutorials/what-is-git)。页面上所有内容采用知识共享-署名（[CC BY 2.5 AU](http://creativecommons.org/licenses/by/2.5/au/deed.zh)）许可协议。
 > 
-> The First commit by myself
+
 > 
 到目前为止，Git 是世界上使用最为广泛的现代化版本控制系统。Git 最初由 Linux 系统内核的作者 Linus Torvalds 在 2005 年开始开发，目前已经是一个持续维护的成熟开源项目。如今，大量软件项目依赖 Git 进行版本管理，其中既有开源软件，也有商业软件。Git 在很多操作系统和集成开发环境（IDE）上都表现良好。绝大多数软件开发者或多或少都使用过 Git。
 
